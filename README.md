@@ -12,7 +12,7 @@ I am a Full Stack Developer eager to keep improving and learning new technologie
  Use Stories, Data-Structures, Data-Modeling, REST, MVC, Object-Oriented Programming, DOM
 
  ## Education
-Full Stack Software Developer, 4Geeks Academy
+#### Full Stack Software Developer, 4Geeks Academy
 
 ## 🔮 How to reach me: 
   ✉️ Email: jeanjesus2501@gmail.com
