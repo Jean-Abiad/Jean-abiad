@@ -14,7 +14,7 @@ I am a Full Stack Developer eager to keep improving and learning new technologie
  ## Education
 Full Stack Software Developer, 4Geeks Academy
 
- 🔮 How to reach me: 
+## 🔮 How to reach me: 
   ✉️ Email: jeanjesus2501@gmail.com
   📫 LinkedIn: https://www.linkedin.com/in/jean-nounon-abiad-/
   
