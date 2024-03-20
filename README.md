@@ -8,8 +8,8 @@ I am a Full Stack Developer eager to keep improving and learning new technologie
  I like to look for solutions to bugs, work in a team, set goals, projects, accept recommendations to improve my code and keep learning!
  👇
  ## 🪐technologies
- #### JAVASCRIPT | HTML | CSS | REACT | GIT | BOOTSTRAP | PYTHON | FLASK | SQL | JEST
- Use Stories, Data-Structures, Data-Modeling, REST, MVC, Object-Oriented Programming, DOM
+ #### JAVASCRIPT | HTML | CSS | REACT | GIT | BOOTSTRAP | PYTHON | FLASK | SQL | JEST | User Stories | Data-Structures | Data-Modeling | REST | MVC | Object-Oriented | Programming | DOM
+ 
 
  ## Education
 #### Full Stack Software Developer, 4Geeks Academy
