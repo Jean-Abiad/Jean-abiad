@@ -18,7 +18,7 @@ I am a Full Stack Developer eager to keep improving and learning new technologie
   ✉️ Email: jeanjesus2501@gmail.com
   📫 LinkedIn: https://www.linkedin.com/in/jean-nounon-abiad-/
   
-(dist/github-snake-dark.gif)
+dist/github-snake-dark.gif
 
   
 
