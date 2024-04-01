@@ -1,4 +1,4 @@
-![github-snake-dark](https://github.com/Jean-Abiad/Jean-abiad/assets/116680148/e445499e-19cc-4260-a20a-c63d99b28a89)# Hi there 👋, Im Jean
+# Hi there 👋, Im Jean
 ## 🦈Full-Stack Developer
 ![Full-Stack Developer](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ## 🪁About Me
@@ -19,7 +19,7 @@ I am a Full Stack Developer eager to keep improving and learning new technologie
   📫 LinkedIn: https://www.linkedin.com/in/jean-nounon-abiad-/
 
 
-
+![github-snake-dark](https://github.com/Jean-Abiad/Jean-abiad/assets/116680148/e445499e-19cc-4260-a20a-c63d99b28a89)
 
 
 
